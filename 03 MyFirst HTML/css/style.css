@@ -1,0 +1,28 @@
+.today {
+    color: rebeccapurple;
+    background-color: red;
+  
+}
+
+#planes {
+    margin: 20px;
+}
+
+.tomorrow {
+    color: pink;
+
+}
+
+a:link {
+    color:turquoise;
+
+}
+
+a:visited {
+    color: green;
+
+}
+
+.title {
+    text-align: center;
+}
